@@ -28,4 +28,3 @@ def grades():
         print("Regular")
     elif nota <= 4:
         print("Insuficiente")
-grades()

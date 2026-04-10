@@ -23,4 +23,3 @@ def compare():
         print(f"{numero1} es menor que {numero2}")
     else:
         print(f"{numero1} es igual a {numero2}")
-compare()

@@ -27,4 +27,3 @@ def age_check():
             print("Eres menor de edad")
     elif edad >= limite:
         print("Eres mayor de edad")
-age_check()

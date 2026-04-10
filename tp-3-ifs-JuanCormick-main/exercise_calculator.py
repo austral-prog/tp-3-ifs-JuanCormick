@@ -37,4 +37,3 @@ def calculator():
         print((numero1) / (numero2))
     else :
         print("Operacion invalida")
-calculator()
